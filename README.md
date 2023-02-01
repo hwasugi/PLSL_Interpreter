@@ -1,3 +1,3 @@
 # PLSL_Interpreter
 
-Parses a text file that uses Pascal-Like Simple Language.
+Uses C++ to parse a text file in Pascal-Like Simple Language, interprets and outputs the results.
